@@ -1,5 +1,5 @@
-import Header from "./componentes/header"
-import SalesCard from "./componentes/SalesCard"
+import Header from "./componentes/header";
+import SalesCard from "./componentes/SalesCard";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       <main>
         <section id="sales">
           <div class="dsmeta-container">
-            <SalesCard />
+          <SalesCard />
           </div>
         </section>
       </main>
@@ -17,4 +17,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

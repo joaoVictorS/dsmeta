@@ -1,5 +1,5 @@
-import icon from "../../assets/img/notification-icon.svg"
-import './stylle.css'
+import icon from "../../assets/img/notification-icon.svg";
+import './stylle.css';
 
 function NotificationButton() {
     return (
@@ -11,4 +11,4 @@ function NotificationButton() {
     )
 }
 
-export default NotificationButton
+export default NotificationButton;

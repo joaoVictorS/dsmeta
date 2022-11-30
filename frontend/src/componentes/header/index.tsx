@@ -1,6 +1,6 @@
-import NotificationButton from "./componentes/NotificationButton"
-import logo from "../../assets/img/logo.svg"
-import './stylle.css'
+import NotificationButton from "./componentes/NotificationButton";
+import logo from "../../assets/img/logo.svg";
+import './stylle.css';
 
 function Header() {
     return (
@@ -17,4 +17,4 @@ function Header() {
     )
 }
 
-export default Header
+export default Header;
